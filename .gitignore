@@ -22,4 +22,5 @@
 .DS_Store
 .idea
 /spring/*.pid
+/app/assets/images/*
 
